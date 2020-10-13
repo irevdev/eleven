@@ -8,5 +8,5 @@
     "userExpiry": "1440",
     "tokenUpdateInterval": "3000000",
     "cartCachePugeInterval": "60000",
-    "userCachePugeInterval": "3600000",
+    "userCachePugeInterval": "3600000"
 }
