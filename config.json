@@ -1,0 +1,12 @@
+{
+    "token_update_interval": "2700000",
+    "cart_update_interval": "60000",
+    "cartExpiry": "45",
+    "paidEpiry": "15",
+    "shoppingExpiry": "25",
+    "cancelledEpiry": "10",
+    "userExpiry": "1440",
+    "tokenUpdateInterval": "3000000",
+    "cartCachePugeInterval": "60000",
+    "userCachePugeInterval": "3600000",
+}
