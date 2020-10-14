@@ -1,6 +1,6 @@
 {
-    "token_update_interval": "2700000",
-    "cart_update_interval": "60000",
+    "tokenUpdateInterval": "2700000",
+    "cartUpdateInterval": "60000",
     "cartExpiry": "45",
     "paidEpiry": "15",
     "shoppingExpiry": "25",
